@@ -1,4 +1,4 @@
-# Pawtopia.Frontend  
+# Pawtopia
 A Pet Supplies Ordering System (Frontend)  
 
 Pawtopia is a modern and user-friendly pet supplies ordering system
